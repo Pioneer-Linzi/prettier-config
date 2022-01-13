@@ -1,5 +1,5 @@
 {
-  "name": "@linzi/prettier-config",
+  "name": "@zhaolinlin/prettier-config",
   "version": "1.0.0",
   "description": "自用的prettier配置",
   "main": "index.json5",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Pioneer-Linzi/prettier-config/issues"
   },
-  "homepage": "https://github.com/Pioneer-Linzi/prettier-config#readme"
+  "homepage": "https://github.com/Pioneer-Linzi/prettier-config#readme",
+  "devDependencies": {
+    "@zhaolinlin/prettier-config": "^1.0.0"
+  }
 }
