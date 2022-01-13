@@ -1,0 +1,23 @@
+{
+  "name": "@linzi/prettier-config",
+  "version": "1.0.0",
+  "description": "自用的prettier配置",
+  "main": "index.json5",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pioneer-Linzi/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": "linlin.zhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pioneer-Linzi/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Pioneer-Linzi/prettier-config#readme"
+}
